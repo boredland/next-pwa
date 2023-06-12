@@ -2,7 +2,7 @@
   "name": "example-next-i18next",
   "version": "1.0.0",
   "dependencies": {
-    "@imbios/next-pwa": "latest",
+    "@imbios/next-pwa": "../../packages/next-pwa",
     "i18next": "22.4.14",
     "next": "13.3.2-canary.7",
     "next-i18next": "13.2.2",

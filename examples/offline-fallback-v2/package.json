@@ -2,7 +2,7 @@
   "name": "example-offline-fallback-v2",
   "version": "1.0.0",
   "dependencies": {
-    "@imbios/next-pwa": "latest",
+    "@imbios/next-pwa": "../../packages/next-pwa",
     "babel-loader": "8.2.5",
     "eslint": "8.30.0",
     "eslint-config-next": "13.3.0",

@@ -2,7 +2,7 @@
   "name": "example-minimal",
   "version": "1.0.0",
   "dependencies": {
-    "@imbios/next-pwa": "latest",
+    "@imbios/next-pwa": "../../packages/next-pwa",
     "cross-env": "7.0.3",
     "fastify": "3.29.0",
     "fastify-compress": "4.1.0",
